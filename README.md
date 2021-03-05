@@ -1,7 +1,8 @@
 # Antonio Villegas
+## _Software Engineer_
 
 ![N|Solid](https://raw.githubusercontent.com/antoniovillegash/antoniovillegash/main/img/pexels-dids-4155783.jpg)
-## _Software Engineer_
+
 > I am a software engineer (Bachelor of Engineering in progress) from Enrique Díaz de León University, my goal is to provide solutions to problems using my knowledge in the best possible way.
 
 - Creative 🖌
