@@ -1,16 +1,16 @@
-### Hi there 👋
+# Antonio Villegas
 
-<!--
-**antoniovillegash/antoniovillegash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![N|Solid](https://raw.githubusercontent.com/antoniovillegash/antoniovillegash/main/img/pexels-dids-4155783.jpg)
+## _Software Engineer_
+> I am a software engineer (Bachelor of Engineering in progress) from Enrique Díaz de León University, my goal is to provide solutions to problems using my knowledge in the best possible way.
 
-Here are some ideas to get you started:
+-  Creative 🖌
+- Self-taught 📝
+- science passionate 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+
+![mail](https://raw.githubusercontent.com/antoniovillegash/antoniovillegash/86df75a2f90d8f84a92820517e514b8b2ed6c508/img/mail.svg)antonio.villegas.0101@gmail.com
+[![linkedin](https://raw.githubusercontent.com/antoniovillegash/antoniovillegash/86df75a2f90d8f84a92820517e514b8b2ed6c508/img/linkedin.svg)](https://www.linkedin.com/in/antonio-villegas-h)https://www.linkedin.com/in/antonio-villegas-h
+[![platzi](https://raw.githubusercontent.com/antoniovillegash/antoniovillegash/86df75a2f90d8f84a92820517e514b8b2ed6c508/img/platzi.svg)](https://platzi.com/p/antoniovillegas/)https://platzi.com/p/antoniovillegas/
+[![ment](https://raw.githubusercontent.com/antoniovillegash/antoniovillegash/86df75a2f90d8f84a92820517e514b8b2ed6c508/img/web.svg)](http://ment.surge.sh/)http://ment.surge.sh/
